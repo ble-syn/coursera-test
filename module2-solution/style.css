@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-body {
-	color: red
-=======
-body {
-	color: red
->>>>>>> f3b97dcb77d6c9af94b23659ae3afbced09783d8
+
+.protein {
+	background-color: #ddd;
+	border:2px solid black;
 }
