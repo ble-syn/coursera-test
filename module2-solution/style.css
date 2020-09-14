@@ -1,4 +1,6 @@
-
+h1 {
+	text-align: center;
+}
 .protein {
 	background-color: #ddd;
 	border:2px solid black;
