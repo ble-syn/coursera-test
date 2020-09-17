@@ -18,14 +18,15 @@ div {
 .row > section {
 	background-color: #ddd;
 	border: 1px solid black;
-	width: 30%;
+	width: 31%;
     height: 200px;
-    margin: 20px;
+    margin: 10px;
     float: left;
     position: relative;	
 }
 
 .row {
+    margin: 10px;
     width: 100%;  
 }
 
@@ -66,7 +67,7 @@ p {
 
 /* TABLET VIEW */
 @media (max-width: 991px) {
-    #chicken, #beef {
+    #chicken, #beef  {
         width: 47%;
     }
 
