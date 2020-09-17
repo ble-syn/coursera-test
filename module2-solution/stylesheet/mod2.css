@@ -56,12 +56,14 @@ p {
     background-color: yellow;
 }
 
+ /* DESKTOP VIEW */
 @media (min-width: 992px) {
     #chicken, #beef, #sushi {
         width: 31%;
     }   
 }
 
+/* TABLET VIEW */
 @media (max-width: 991px) {
     #chicken, #beef, #sushi {
         width: 47%;
@@ -72,6 +74,7 @@ p {
     }
 }
 
+/* MOBILE VIEW */
 @media (max-width:767px) {
     #chicken, #beef, #sushi {
         width: 96%;
