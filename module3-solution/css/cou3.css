@@ -1,0 +1,88 @@
+body {
+    font-size: 16px;
+    font-family: 'Abril Fatface', cursive;
+    color: #000;
+    background-color: #ffffff;
+}
+
+/** HEADER **/
+
+#header-nav {
+    background-color:#465775;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav button {
+    margin-top: 22px;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 70px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: #FFC482;
+    font-weight: bolder;
+    font-size: 28px;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+
+#nav-list a {
+    font-weight: bolder;
+    color: #282828;
+    font-size: 20px;
+}
+
+#nav-list a:hover {
+    color: #202020;
+    background-color: #9eb4fc;
+    transition: background .5s ease;
+}
+
+.navbar-header .navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid#FFC482;
+}
+
+
+
+/** END HEADER */
+
+
+/** HOME PAGE **/
+
+#main-content {
+    width: 96%;
+    margin-bottom: 40px;
+}
+
+#main-content h2 {
+    font-size: 40px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    color: #FFC482;
+}
+
+#main-content h3 {
+    font-size: 25px;
+    margin-bottom: 1em;
+    color: #FFC482;
+}
+
+#main-section {
+    background-color: #465775;
+    padding: 30px;
+}
+
+/** END HOME PAGE **/
