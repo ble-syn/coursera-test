@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
 Solution of assignment 4:
 Expected output:
@@ -24,7 +23,6 @@ Good Bye Jim
             helloSpeaker.speak(names[i]);
         }
     }
-=======
 /*
 Solution of assignment 4:
 Expected output:
@@ -50,5 +48,4 @@ Good Bye Jim
             helloSpeaker.speak(names[i]);
         }
     }
->>>>>>> 03dee99cc9b7c1fc8eda4108197fd374704ea73f
 })();
